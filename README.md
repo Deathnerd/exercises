@@ -7,3 +7,4 @@ A repository of exercises to practice when I'm bored
 * A web service to generate a random DnD character
 * A web service that monitors basic remote server status'
 * http://www.nand2tetris.org
+* Project Euler
