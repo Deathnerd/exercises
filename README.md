@@ -11,3 +11,4 @@ A repository of exercises to practice when I'm bored
 * Project Euler
 * IntelliJ plugins
   * Sublime SFTP JSON Importer
+* Implement a trie
