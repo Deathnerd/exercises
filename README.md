@@ -12,3 +12,5 @@ A repository of exercises to practice when I'm bored
 * IntelliJ plugins
   * Sublime SFTP JSON Importer
 * Implement a trie
+* Cards Against Humanity clone
+  * Desktop, Web, and native mobile apps
