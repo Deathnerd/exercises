@@ -14,3 +14,4 @@ A repository of exercises to practice when I'm bored
 * Implement a trie
 * Cards Against Humanity clone
   * Desktop, Web, and native mobile apps
+* Farming Simulator mod manager
