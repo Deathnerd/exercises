@@ -15,3 +15,4 @@ A repository of exercises to practice when I'm bored
 * Cards Against Humanity clone
   * Desktop, Web, and native mobile apps
 * Farming Simulator mod manager
+* Javascript/server script to track user interaction on a web page
