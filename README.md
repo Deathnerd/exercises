@@ -11,6 +11,7 @@ A repository of exercises to practice when I'm bored
 * Project Euler
 * IntelliJ plugins
   * Sublime SFTP JSON Importer
+  * Howdoi integration
 * Implement a trie
 * Cards Against Humanity clone
   * Desktop, Web, and native mobile apps
