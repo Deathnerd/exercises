@@ -7,14 +7,16 @@ A repository of exercises to practice when I'm bored
 * Web Services
   * Generate a random DnD character
   * Monitor basic remote server statuses
-* http://www.nand2tetris.org
+* [NAND2Tetris](http://www.nand2tetris.org)
 * Project Euler
 * IntelliJ plugins
   * Sublime SFTP JSON Importer
   * Howdoi integration
+  * Color Lookup using [ColourLovers API](http://www.colourlovers.com/api))
 * Implement a trie
 * Cards Against Humanity clone
-  * Desktop, Web, and native mobile apps
-* Farming Simulator mod manager
+  * Responsive Web
+  * Native Android
 * Javascript/server script to track user interaction on a web page
 * Github Flavored Markdown renderer
+* ~~Brainfuck interpreter~~ [Done!](https://www.github.com/Deathnerd/pyfck)
