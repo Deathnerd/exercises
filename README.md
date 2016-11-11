@@ -19,4 +19,6 @@ A repository of exercises to practice when I'm bored
   * Native Android
 * Javascript/server script to track user interaction on a web page
 * Github Flavored Markdown renderer
+* ER Diagram editor
+  * Keyboard-friendly
 * ~~Brainfuck interpreter~~ [Done!](https://www.github.com/Deathnerd/pyfck)
