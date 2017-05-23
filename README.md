@@ -12,10 +12,11 @@ A repository of exercises to practice when I'm bored
 * IntelliJ plugins
   * Sublime SFTP JSON Importer
   * Howdoi integration
-  * Color Lookup using [ColourLovers API](http://www.colourlovers.com/api))
+  * Color Lookup using [ColourLovers API](http://www.colourlovers.com/api)
   * DQL Language Plugin
   * SA3 Plugin
 * Implement a trie
+* Work through [Robert Sedgewick's Algorithms Videos](https://www.youtube.com/playlist?list=PLxc4gS-_A5VDXUIOPkJkwQKYiT2T1t0I8)
 * Cards Against Humanity clone
   * Responsive Web
   * Native Android
