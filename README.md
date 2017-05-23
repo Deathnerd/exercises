@@ -13,6 +13,8 @@ A repository of exercises to practice when I'm bored
   * Sublime SFTP JSON Importer
   * Howdoi integration
   * Color Lookup using [ColourLovers API](http://www.colourlovers.com/api))
+  * DQL Language Plugin
+  * SA3 Plugin
 * Implement a trie
 * Cards Against Humanity clone
   * Responsive Web
