@@ -1,4 +1,4 @@
-exercises
+Exercises
 =========
 
 A repository of exercises to practice when I'm bored
@@ -25,3 +25,4 @@ A repository of exercises to practice when I'm bored
 * ER Diagram editor
   * Keyboard-friendly
 * ~~Brainfuck interpreter~~ [Done!](https://www.github.com/Deathnerd/pyfck)
+* Self-Hosted [Papaly](https://papaly.com/) replacement
