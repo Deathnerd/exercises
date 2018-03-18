@@ -17,6 +17,8 @@ A repository of exercises to practice when I'm bored
 * Cards Against Humanity clone
   * Responsive Web
   * Native Android
+  * Slackbot
+  * FB Messenger Bot
 * Javascript/server script to track user interaction on a web page
 * Github Flavored Markdown renderer
 * ER Diagram editor
